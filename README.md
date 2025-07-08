@@ -1,4 +1,4 @@
-# Food Website Landing Site
+# Food Website Landing Page
 
 Welcome to **Food Website Landing Page**, a simple and elegant landing site showcasing food specials with a clean, responsive UI. Built with **HTML and CSS**.
 
